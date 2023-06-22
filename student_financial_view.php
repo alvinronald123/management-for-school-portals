@@ -84,7 +84,7 @@
                      <th>Name</th>
                     <th>Class</th>
                     <th>Amount_Paid</th>
-                    <th>Balance</th>
+                    <th>Amount_Unpaid</th>
                     <th>Currency</th>
                 </tr>
             </thead>
@@ -157,7 +157,7 @@
                      <th>Name</th>
                     <th>Class</th>
                     <th>Amount_Paid</th>
-                    <th>Balance</th>
+                    <th>Amount_Unpaid</th>
                     <th>Currency</th>
                    
                 </tr>
@@ -171,7 +171,7 @@
                     <td>Alvin</td>
                     <td>S4</td>
                     <td>7890098</td>
-                    <td>7890098</td>
+                    <td>78908</td>
                     
                     <td>Ug shilling</td>
 
