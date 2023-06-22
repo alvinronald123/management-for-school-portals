@@ -83,7 +83,8 @@
                     <th>Student No_</th>
                      <th>Name</th>
                     <th>Class</th>
-                    <th>Amount</th>
+                    <th>Amount_Paid</th>
+                    <th>Balance</th>
                     <th>Currency</th>
                 </tr>
             </thead>
@@ -96,14 +97,6 @@
                     <td>Alvin</td>
                     <td>S4</td>
                     <td>7890098</td>
-                    <td>Ug shilling</td>
-
-                </tr>
-                <tr>
-                    <td>School fees</td>
-                    <td>64738</td>
-                    <td>Alvin</td>
-                    <td>S4</td>
                     <td>7890098</td>
                     <td>Ug shilling</td>
 
@@ -114,6 +107,8 @@
                     <td>Alvin</td>
                     <td>S4</td>
                     <td>7890098</td>
+                    <td>7890098</td>
+                    
                     <td>Ug shilling</td>
 
                 </tr>
@@ -123,6 +118,19 @@
                     <td>Alvin</td>
                     <td>S4</td>
                     <td>7890098</td>
+                    <td>7890098</td>
+                    
+                    <td>Ug shilling</td>
+
+                </tr>
+                <tr>
+                    <td>School fees</td>
+                    <td>64738</td>
+                    <td>Alvin</td>
+                    <td>S4</td>
+                    <td>7890098</td>
+                    <td>7890098</td>
+                    
                     <td>Ug shilling</td>
 
                 </tr>
@@ -148,8 +156,10 @@
                     <th>Student No_</th>
                      <th>Name</th>
                     <th>Class</th>
-                    <th>Amount</th>
+                    <th>Amount_Paid</th>
+                    <th>Balance</th>
                     <th>Currency</th>
+                   
                 </tr>
             </thead>
             <tbody>
@@ -161,6 +171,8 @@
                     <td>Alvin</td>
                     <td>S4</td>
                     <td>7890098</td>
+                    <td>7890098</td>
+                    
                     <td>Ug shilling</td>
 
                 </tr>
@@ -170,6 +182,8 @@
                     <td>Alvin</td>
                     <td>S4</td>
                     <td>7890098</td>
+                    <td>7890098</td>
+                    
                     <td>Ug shilling</td>
 
                 </tr>
@@ -179,6 +193,8 @@
                     <td>Alvin</td>
                     <td>S4</td>
                     <td>7890098</td>
+                    <td>7890098</td>
+                    
                     <td>Ug shilling</td>
 
                 </tr>
@@ -188,6 +204,8 @@
                     <td>Alvin</td>
                     <td>S4</td>
                     <td>7890098</td>
+                    <td>7890098</td>
+                    
                     <td>Ug shilling</td>
 
                 </tr>
