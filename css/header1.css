@@ -1,0 +1,205 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background-color: #f2f2f2;
+  }
+  
+  .logo {
+    width: 70px;
+    height: 70px;
+    margin-right: 15px;
+    vertical-align: middle;
+    border-radius: 20px;
+    margin-left: 15px;
+    margin-top: 5px;
+  }
+  
+  h1 {
+    display: inline-block;
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+    color: #3010be;
+    vertical-align: middle;
+    background-color: rgb(209, 209, 240);
+    align-items: center;
+    text-align: center;
+    margin-bottom: 0;
+    padding: 10px;
+  }
+  .header{
+   
+    width: 100%;
+  }
+  
+  /* CSS for the image profile for the students .php */
+  .student_profile {
+    margin-top: 10px;
+  }
+  
+  .student_profile img {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin-left: 20px;
+    margin-top: 5px;
+    float: left;
+    border-radius: 30%;
+    border: 3px solid #333;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .student_profile {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .student_info {
+    margin-left: 20px;
+    text-align: center;
+    margin-top: 0;
+  }
+  
+  h2 {
+    margin-top: 0;
+  }
+  
+  .student_info h2 {
+    font-size: 50px;
+    margin-bottom: 10px;
+  }
+  
+  .student_info p {
+    margin-bottom: 5px;
+    font-size: 20px;
+  }
+  
+  .student_info span {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .info_group {
+    float: right;
+    text-align: left;
+    margin-left: 20px;
+    padding: 10px;
+    margin-bottom: 2px;
+  }
+  
+  /* CSS for the links in students.php */
+  .container {
+    display: flex;
+    align-items: stretch;
+    width: 100%;
+  }
+  
+  .links-container {
+    flex: 1;
+    margin-right: 10px;
+    border: 1px solid #6e0fbb;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    display: block;
+    text-decoration: none;
+    color: #333;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    max-width: 20%;
+    align-items: center;
+    text-align: center;
+  }
+  .links-container  .links{
+    margin-left: 40px;
+  }
+  .details-container{
+    background-color: #f2f2f2;
+}
+  
+  .details-container {
+    flex: 2;
+    border: 1px solid #f11e1e;
+    padding: 10px;
+    border-radius: 5px;
+    width: 70%;
+    max-height: 700px;
+    overflow: auto;
+  }
+  
+  .my_links {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-left: 10px;
+    width: fit-content;
+    max-width: 40%;
+  }
+  
+  .links {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-left: 10px;
+
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-left: 10px;
+    width: fit-content;
+    max-width: 100%;
+  }
+  
+  .links a {
+    text-decoration: none;
+    color: #fff;
+    background-color: #337ab7;
+    padding: 10px 15px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .links a:hover,
+  .links a.selected {
+    background-color: #0c1e2e;
+  }
+  
+  .links a.selected {
+    background-color: #0c1e2e;
+  }
+  
+  .links a:focus {
+    outline: none;
+  }
+  
+  .links-container a:hover {
+    background-color: #e0e0e0;
+    color: #333;
+  }
+  
+  .footer h3 {
+    text-align: center;
+    align-items: center;
+    background-color: rgb(209, 209, 240);
+    color: #3010be;
+    padding: 10px;
+  }
+  /*  css for the table in result form */
+  .details-container .marks_title h2 {
+    align-items: center;
+    text-align: center;
+    color: #3010be;
+
+  }
+  .container .links-container .my_links hr p h3{
+    text-align: center;
+    align-items: center;
+    width: 100%;
+}
+ 
