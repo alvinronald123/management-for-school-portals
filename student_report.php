@@ -102,7 +102,7 @@
                         <label>Name:</label>
                         <label>Name:</label>
                         <label>Name:</label>
-                        <label>Name:</label>
+                        
                     </div>
                 </div>
                 <div class=" rec_flex2" >

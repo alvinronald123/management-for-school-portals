@@ -40,7 +40,7 @@
 
     <div class="container">
         <div class="links-container">
-            <!-- Links here jdf -->
+            <!-- Links here  -->
             <div >
                 
                 <div class="links" >
