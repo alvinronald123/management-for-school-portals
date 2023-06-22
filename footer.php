@@ -8,7 +8,7 @@
     <footer class="footer">
      <hr>
      <br>
-      <h3> COPYRIGHT : QUEEN OF MARTYRS HIGH SCHOOL. </h3>
+      <h3> COPYRIGHT : QUEEN OF MARTYRS HIGH SCHOOL.</h3>
       <br><br>
     </footer>
     </body>

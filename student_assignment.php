@@ -25,10 +25,10 @@
         <div class="info_group">
             <p><strong>House:</strong> Blue House</p>
             <p><strong>Sex:</strong> Male</p>
-            <p><strong>Date of Birth:</strong> 2005-05-10</p>
+            <p><strong>Date of Birth:</strong> 2007-05-10</p>
         </div>
         <div class="info_group">
-            <p><strong>Student Number:</strong> 123456789</p>
+            <p><strong>Student Number:</strong> 123456784</p>
             <p><strong>Parent Name:</strong> Jane Doe</p>
             <p><strong>Email:</strong> john.doe@example.com</p>
         </div>
