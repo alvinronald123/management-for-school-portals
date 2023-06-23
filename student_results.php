@@ -30,7 +30,7 @@
         <div class="info_group">
             <p><strong>Student Number:</strong> 123456789</p>
             <p><strong>Parent Name:</strong> Jane Doe</p>
-            <p><strong>Email:</strong> john.doe@example.com</p>
+            <p><strong>Combination:</strong>MEG/ICT/GP</p>
         </div>
     </div>
 </div>
