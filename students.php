@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="css/student.css"> <!-- Add your CSS file here -->
+    
 </head>
 <body>
     <?php require "header1.php"; ?>
@@ -71,18 +72,14 @@
     </div>
     <br>
     <hr>
-    <br>
-    
+       
         <div class=" btns">
     <a href="<?php echo ""; ?>">Save</a>
     <a href="<?php echo ""; ?>">Print</a>
     <a href="<?php echo ""; ?>">Print_Preview</a>
     <a href="<?php echo "logout.php"; ?>">Log_Out</a>
     </div>
-          
-    
-    
-    <br><br>
+    <br>
     <?php require "footer.php"; ?>
 </body>
 </html>

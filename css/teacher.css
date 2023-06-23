@@ -56,3 +56,21 @@ body {
     align-items: center;
     color: #3010be;
   }
+  .btns {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .btns a {
+    text-decoration: none;
+    color: #333;
+    background-color: #337ab7;
+    padding: 10px 20px;
+    border-radius: 15px;
+    color:white;
+  }
+  
+  .btns a:hover {
+    background-color: #382f2f;
+  }

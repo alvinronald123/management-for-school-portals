@@ -157,13 +157,15 @@
     </div>
     <br>
     <hr>
-    <br>
-    <div>
-        <button>Save Document</button>
-        <button>Print</button>
-
+    
+    <div class=" btns">
+    <a href="<?php echo ""; ?>">Save</a>
+    <a href="<?php echo ""; ?>">Print</a>
+    <a href="<?php echo ""; ?>">Print_Preview</a>
+    <a href="<?php echo "logout.php"; ?>">Log_Out</a>
     </div>
-    <br><br>
+          
+    <br>
     <?php require "footer.php"; ?>
 </body>
 </html>
