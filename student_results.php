@@ -304,9 +304,9 @@
 <br>
 <hr>
 <div class=" btns">
-    <a href="<?php echo ""; ?>">Save</a>
-    <a href="<?php echo ""; ?>">Print</a>
-    <a href="<?php echo ""; ?>">Print_Preview</a>
+    <a href="<?php echo "save.php"; ?>">Save</a>
+    <a href="<?php echo "print.php"; ?>">Print</a>
+    <a href="<?php echo "print_preview.php"; ?>">Print_Preview</a>
     <a href="<?php echo "logout.php"; ?>">Log_Out</a>
     </div>
           
