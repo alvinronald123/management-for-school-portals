@@ -29,12 +29,13 @@ body {
 }
 
 table {
-    width: 90%;
+    width: 100%;
     border-collapse: collapse;
+    overflow: auto;
 }
 
 th, td {
-    padding: 10px;
+    padding: 5px;
     text-align: left;
     border-bottom: 1px solid #ddd;
 }
@@ -64,6 +65,7 @@ th {
 }
 .details-container {
     max-height: 700px;
+    
     overflow: auto;
 }
 .btns {
@@ -83,4 +85,18 @@ th {
   
   .btns a:hover {
     background-color: #382f2f;
+  }
+  .welcome{
+    align-items: center;
+    text-align: center;
+    background-color: rgb(64, 161, 64);
+    color: #382f2f;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+
+  }
+  .welcome:hover{
+    color: #ddd;
+    background-color: rgb(117, 92, 59);
   }

@@ -37,6 +37,8 @@
 <br>
 <hr>
 <br>
+<h2 class="welcome">Welcome To The Studet's Platform Portal</h2>
+<br>
 
 <div class="container">
   <div class="links-container">
@@ -86,6 +88,7 @@
           <th>Email</th>
           <th>Performance Reaction</th>
           <th>Discipline Reaction</th>
+          <th>Head Teacher's Reaction</th>
         </tr>
       </thead>
      
@@ -102,14 +105,6 @@
           <td><p>12345@gmail.com</p></td>
           <td><p>Good</p></td>
           <td><p>Good</p></td>
-        </tr>
-        <th colspan="5">QOM--YEAR:2023--TERM:ONE</th>
-        <tr>
-          <td><p>Kawooya Simon</p></td>
-          <td><p>0701651791</p></td>
-          <td><p>Mathematics</p></td>
-          <td><p>12345@gmail.com</p></td>
-          <td><p>Good</p></td>
           <td><p>Good</p></td>
         </tr>
         <th colspan="5">QOM--YEAR:2023--TERM:ONE</th>
@@ -119,14 +114,6 @@
           <td><p>Mathematics</p></td>
           <td><p>12345@gmail.com</p></td>
           <td><p>Good</p></td>
-          <td><p>Good</p></td>
-        </tr>
-        <th colspan="5">QOM--YEAR:2023--TERM:ONE</th>
-        <tr>
-          <td><p>Kawooya Simon</p></td>
-          <td><p>0701651791</p></td>
-          <td><p>Mathematics</p></td>
-          <td><p>12345@gmail.com</p></td>
           <td><p>Good</p></td>
           <td><p>Good</p></td>
         </tr>
@@ -138,14 +125,6 @@
           <td><p>12345@gmail.com</p></td>
           <td><p>Good</p></td>
           <td><p>Good</p></td>
-        </tr>
-        <th colspan="5">QOM--YEAR:2023--TERM:ONE</th>
-        <tr>
-          <td><p>Kawooya Simon</p></td>
-          <td><p>0701651791</p></td>
-          <td><p>Mathematics</p></td>
-          <td><p>12345@gmail.com</p></td>
-          <td><p>Good</p></td>
           <td><p>Good</p></td>
         </tr>
         <th colspan="5">QOM--YEAR:2023--TERM:ONE</th>
@@ -155,14 +134,6 @@
           <td><p>Mathematics</p></td>
           <td><p>12345@gmail.com</p></td>
           <td><p>Good</p></td>
-          <td><p>Good</p></td>
-        </tr>
-        <th colspan="5">QOM--YEAR:2023--TERM:ONE</th>
-        <tr>
-          <td><p>Kawooya Simon</p></td>
-          <td><p>0701651791</p></td>
-          <td><p>Mathematics</p></td>
-          <td><p>12345@gmail.com</p></td>
           <td><p>Good</p></td>
           <td><p>Good</p></td>
         </tr>
@@ -174,14 +145,6 @@
           <td><p>12345@gmail.com</p></td>
           <td><p>Good</p></td>
           <td><p>Good</p></td>
-        </tr>
-        <th colspan="5">QOM--YEAR:2023--TERM:ONE</th>
-        <tr>
-          <td><p>Kawooya Simon</p></td>
-          <td><p>0701651791</p></td>
-          <td><p>Mathematics</p></td>
-          <td><p>12345@gmail.com</p></td>
-          <td><p>Good</p></td>
           <td><p>Good</p></td>
         </tr>
         <th colspan="5">QOM--YEAR:2023--TERM:ONE</th>
@@ -192,6 +155,7 @@
           <td><p>12345@gmail.com</p></td>
           <td><p>Good</p></td>
           <td><p>Good</p></td>
+          <td><p>Good</p></td>
         </tr>
         <th colspan="5">QOM--YEAR:2023--TERM:ONE</th>
         <tr>
@@ -199,6 +163,57 @@
           <td><p>0701651791</p></td>
           <td><p>Mathematics</p></td>
           <td><p>12345@gmail.com</p></td>
+          <td><p>Good</p></td>
+          <td><p>Good</p></td>
+          <td><p>Good</p></td>
+        </tr>
+        <th colspan="5">QOM--YEAR:2023--TERM:ONE</th>
+        <tr>
+          <td><p>Kawooya Simon</p></td>
+          <td><p>0701651791</p></td>
+          <td><p>Mathematics</p></td>
+          <td><p>12345@gmail.com</p></td>
+          <td><p>Good</p></td>
+          <td><p>Good</p></td>
+          <td><p>Good</p></td>
+        </tr>
+        <th colspan="5">QOM--YEAR:2023--TERM:ONE</th>
+        <tr>
+          <td><p>Kawooya Simon</p></td>
+          <td><p>0701651791</p></td>
+          <td><p>Mathematics</p></td>
+          <td><p>12345@gmail.com</p></td>
+          <td><p>Good</p></td>
+          <td><p>Good</p></td>
+          <td><p>Good</p></td>
+        </tr>
+        <th colspan="5">QOM--YEAR:2023--TERM:ONE</th>
+        <tr>
+          <td><p>Kawooya Simon</p></td>
+          <td><p>0701651791</p></td>
+          <td><p>Mathematics</p></td>
+          <td><p>12345@gmail.com</p></td>
+          <td><p>Good</p></td>
+          <td><p>Good</p></td>
+          <td><p>Good</p></td>
+        </tr>
+        <th colspan="5">QOM--YEAR:2023--TERM:ONE</th>
+        <tr>
+          <td><p>Kawooya Simon</p></td>
+          <td><p>0701651791</p></td>
+          <td><p>Mathematics</p></td>
+          <td><p>12345@gmail.com</p></td>
+          <td><p>Good</p></td>
+          <td><p>Good</p></td>
+          <td><p>Good</p></td>
+        </tr>
+        <th colspan="5">QOM--YEAR:2023--TERM:ONE</th>
+        <tr>
+          <td><p>Kawooya Simon</p></td>
+          <td><p>0701651791</p></td>
+          <td><p>Mathematics</p></td>
+          <td><p>12345@gmail.com</p></td>
+          <td><p>Good</p></td>
           <td><p>Good</p></td>
           <td><p>Good</p></td>
         </tr>

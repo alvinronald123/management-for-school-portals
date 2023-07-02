@@ -37,6 +37,8 @@
 <br>
 <hr>
 <br>
+<h2 class="welcome">Welcome To The Studet's Platform Portal</h2>
+<br>
 
 <div class="container">
   <div class="links-container">
@@ -82,197 +84,36 @@
         <table>
             <thead>
                 <tr>
-                    <th>Code</th>
+                   
                     <th>Subject</th>
+                    <th>Sub_Code</th>
                     <th>Assignment</th>
+                    <th>Term</th>
                     <th>Initials</th>
-                    <th>Paper_No</th>
-                    <th>Download</th>
+                    <th>Paper</th>
+                    
                     <th>Upload</th>
+                    <th>Sending</th>
                     <th>Done</th>
+                    <th>Download</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <td>123</td>
+                  
                     <td>Mathematics</td>
+                    <td>4567</td>
                     <td>Assignment 1</td>
+                    <td>Term One</td>
                     <td>JM</td>
                     <td>12345</td>
+                   
+                    <td><input type="file"></td>
+                    <td><a href="path/to/assignment.pdf" class="btn">Send</a></td>
+                    <td> <input type="checkbox" name="check"> </td>
                     <td><a href="path/to/assignment.pdf" class="btn">Download</a></td>
-                    <td><input type="file"></td>
-                    <td> <input type="checkbox" name="check"> </td>
                 </tr>
-                <tr>
-                    <td>456</td>
-                    <td>English</td>
-                    <td>Assignment 2</td>
-                    <td>LS</td>
-                    <td>67890</td>
-                    <td><a href="path/to/assignment.docx" class="btn">Download</a></td>
-                    <td><input type="file"></td>
-                    <td> <input type="checkbox" name="check"> </td>
-                </tr>
-                <tr>
-                    <td>123</td>
-                    <td>Mathematics</td>
-                    <td>Assignment 1</td>
-                    <td>JM</td>
-                    <td>12345</td>
-                    <td><a href="path/to/assignment.pdf" class="btn">Download</a></td>
-                    <td><input type="file"></td>
-                    <td> <input type="checkbox" name="check"> </td>
-                </tr>
-                <tr>
-                    <td>456</td>
-                    <td>English</td>
-                    <td>Assignment 2</td>
-                    <td>LS</td>
-                    <td>67890</td>
-                    <td><a href="path/to/assignment.docx" class="btn">Download</a></td>
-                    <td><input type="file"></td>
-                    <td> <input type="checkbox" name="check"> </td>
-                </tr>
-                <tr>
-                    <td>123</td>
-                    <td>Mathematics</td>
-                    <td>Assignment 1</td>
-                    <td>JM</td>
-                    <td>12345</td>
-                    <td><a href="path/to/assignment.pdf" class="btn">Download</a></td>
-                    <td><input type="file"></td>
-                    <td> <input type="checkbox" name="check"> </td>
-                </tr>
-                <tr>
-                    <td>456</td>
-                    <td>English</td>
-                    <td>Assignment 2</td>
-                    <td>LS</td>
-                    <td>67890</td>
-                    <td><a href="path/to/assignment.docx" class="btn">Download</a></td>
-                    <td><input type="file"></td>
-                    <td> <input type="checkbox" name="check"> </td>
-                </tr>
-                <tr>
-                    <td>123</td>
-                    <td>Mathematics</td>
-                    <td>Assignment 1</td>
-                    <td>JM</td>
-                    <td>12345</td>
-                    <td><a href="path/to/assignment.pdf" class="btn">Download</a></td>
-                    <td><input type="file"></td>
-                    <td> <input type="checkbox" name="check"> </td>
-                </tr>
-                <tr>
-                    <td>456</td>
-                    <td>English</td>
-                    <td>Assignment 2</td>
-                    <td>LS</td>
-                    <td>67890</td>
-                    <td><a href="path/to/assignment.docx" class="btn">Download</a></td>
-                    <td><input type="file"></td>
-                    <td> <input type="checkbox" name="check"> </td>
-                </tr>
-                <tr>
-                    <td>123</td>
-                    <td>Mathematics</td>
-                    <td>Assignment 1</td>
-                    <td>JM</td>
-                    <td>12345</td>
-                    <td><a href="path/to/assignment.pdf" class="btn">Download</a></td>
-                    <td><input type="file"></td>
-                    <td> <input type="checkbox" name="check"> </td>
-                </tr>
-                <tr>
-                    <td>456</td>
-                    <td>English</td>
-                    <td>Assignment 2</td>
-                    <td>LS</td>
-                    <td>67890</td>
-                    <td><a href="path/to/assignment.docx" class="btn">Download</a></td>
-                    <td><input type="file"></td>
-                    <td> <input type="checkbox" name="check"> </td>
-                </tr>
-                <tr>
-                    <td>123</td>
-                    <td>Mathematics</td>
-                    <td>Assignment 1</td>
-                    <td>JM</td>
-                    <td>12345</td>
-                    <td><a href="path/to/assignment.pdf" class="btn">Download</a></td>
-                    <td><input type="file"></td>
-                    <td> <input type="checkbox" name="check"> </td>
-                </tr>
-                <tr>
-                    <td>456</td>
-                    <td>English</td>
-                    <td>Assignment 2</td>
-                    <td>LS</td>
-                    <td>67890</td>
-                    <td><a href="path/to/assignment.docx" class="btn">Download</a></td>
-                    <td><input type="file"></td>
-                    <td> <input type="checkbox" name="check"> </td>
-                </tr>
-                <tr>
-                    <td>123</td>
-                    <td>Mathematics</td>
-                    <td>Assignment 1</td>
-                    <td>JM</td>
-                    <td>12345</td>
-                    <td><a href="path/to/assignment.pdf" class="btn">Download</a></td>
-                    <td><input type="file"></td>
-                    <td> <input type="checkbox" name="check"> </td>
-                </tr>
-                <tr>
-                    <td>456</td>
-                    <td>English</td>
-                    <td>Assignment 2</td>
-                    <td>LS</td>
-                    <td>67890</td>
-                    <td><a href="path/to/assignment.docx" class="btn">Download</a></td>
-                    <td><input type="file"></td>
-                    <td> <input type="checkbox" name="check"> </td>
-                </tr>
-                <tr>
-                    <td>123</td>
-                    <td>Mathematics</td>
-                    <td>Assignment 1</td>
-                    <td>JM</td>
-                    <td>12345</td>
-                    <td><a href="path/to/assignment.pdf" class="btn">Download</a></td>
-                    <td><input type="file"></td>
-                    <td> <input type="checkbox" name="check"> </td>
-                </tr>
-                <tr>
-                    <td>456</td>
-                    <td>English</td>
-                    <td>Assignment 2</td>
-                    <td>LS</td>
-                    <td>67890</td>
-                    <td><a href="path/to/assignment.docx" class="btn">Download</a></td>
-                    <td><input type="file"></td>
-                    <td> <input type="checkbox" name="check"> </td>
-                </tr>
-                <tr>
-                    <td>123</td>
-                    <td>Mathematics</td>
-                    <td>Assignment 1</td>
-                    <td>JM</td>
-                    <td>12345</td>
-                    <td><a href="path/to/assignment.pdf" class="btn">Download</a></td>
-                    <td><input type="file"></td>
-                    <td> <input type="checkbox" name="check"> </td>
-                </tr>
-                <tr>
-                    <td>456</td>
-                    <td>English</td>
-                    <td>Assignment 2</td>
-                    <td>LS</td>
-                    <td>67890</td>
-                    <td><a href="path/to/assignment.docx" class="btn">Download</a></td>
-                    <td><input type="file"></td>
-                    <td> <input type="checkbox" name="check"> </td>
-                </tr>
+                
                 <!-- Add more rows as needed -->
             </tbody>
         </table>

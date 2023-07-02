@@ -38,6 +38,8 @@
     <br>
     <hr>
     <br>
+<h2 class="welcome">Welcome To The Studet's Platform Portal</h2>
+    <br>
 
     <div class="container">
         <div class="links-container">
